@@ -177,6 +177,6 @@ Unsure where to begin contributing? You can start by looking through good-first-
 
 Working on your first Pull Request? You can learn how from this _free_ series, [How to Contribute to an Open Source Project on GitHub](https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github). If you prefer to read through some tutorials, visit <https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/> and <https://www.firsttimersonly.com/>
 
-At this point, you're ready to make your changes! Feel free to ask for help; everyone is a beginner at first :smile_cat:
+At this point, you're ready to make your changes!
 
 If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed and that you need to update your branch so it's easier to merge.
